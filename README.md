@@ -11,7 +11,7 @@ With a keen eye for design and a knack for problem-solving, I strive to build en
 
 💬 Ask me about React JS, CSS Grid, CSS Flex, or design systems.
 
-📫 You can reach me at monusinghtomar107@gmail.com and my insta page @monu_tomar_21.
+📫 You can reach me at monuwebdev01@gmail.com and my insta page @monu_tomar_21.
 
 ⚡ Fun fact: I love experimenting with new design trends and optimizing user experiences.
 
